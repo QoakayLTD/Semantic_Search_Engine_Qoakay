@@ -1,0 +1,9 @@
+*** Script Explanation ***
+
+del_rows.py = a phase of data noramlisation by which we delete any entry from the dataset if it contains a null value for the abstract
+
+ss_json_to_csv.py = converting the json data from semantic scholar to csv format to make it the appropriate format for being read into a pandas dataframe
+
+ss_query_ML.py = sample query to demonstrate the metadata and data point that we have queried from the semantic scholar backend via API call
+
+merge_csv.py = the normalised dataset made up of 60 separate files is finally merged to one
